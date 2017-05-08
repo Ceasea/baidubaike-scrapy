@@ -1,9 +1,13 @@
 ## baidubaike-scrapy
+
+spider_main.py包括以下几个模块
+
 1. spider_main.py
 2. url_Manager.py
 3. html_Downloader.py
 4. html_Parser.py
 5. html_Outputer.py
+
 
 **mypider.py 对spider_main的所有模块重写**
 
